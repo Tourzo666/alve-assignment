@@ -1,0 +1,87 @@
+[
+  {
+    "_id": 1,
+    "name": "Chicago Deep-Dish Pizza",
+    "info" : "Classic Italian pasta dish with savory meat sauce",
+    "img": "https://i.ibb.co/Wzb7CVC/sourdough-pizza-crust.jpg",
+    "ingredients": [
+      "550 g chicken",
+      "120 ml soy sauce",
+      "200 g basil leaf",
+      "400 g mushroom"
+    ],
+    "time": "30 min",
+    "calories": "320 calories"
+  },
+  {
+    "_id": 2,
+    "name": "Biriyani",
+    "info": "Classic Italian pasta dish with savory meat sauce.",
+    "img": "https://i.ibb.co/hcqTddy/29a250fef4c1e5190dc14da037ca751f.jpg",
+    "ingredients": [
+      "550 g chicken",
+      "120 ml soy sauce",
+      "200 g basil leaf",
+      "400 g mushroom",
+      "Polao Rice"
+    ],
+    "time": "30 min",
+    "calories": "320 calories"
+  },
+  {
+    "_id": 3,
+    "info": "Classic Italian pasta dish with savory meat sauce.",
+    "name": "Pizza",
+    "img": "https://i.ibb.co/DpwvjTZ/pizza-5179939-960-720.jpg",
+    "ingredients": [
+      "550 g chicken",
+      "120 ml soy sauce",
+      "200 g basil leaf",
+      "400 g mushroom"
+    ],
+    "time": "30 min",
+    "calories": "320 calories"
+  },
+  {
+    "_id": 4,
+    "name": " Grilled Beef Steak",
+    "info": "Classic Italian pasta dish with savory meat sauce.",
+    "img": "https://i.ibb.co/LZhWYMH/Grilled-Beef-Steak-thumbnail.jpg",
+    "ingredients": [
+      "550 g chicken",
+      "120 ml soy sauce",
+      "200 g basil leaf",
+      "400 g mushroom"
+    ],
+    "time": "30 min",
+    "calories": "320 calories"
+  },
+  {
+    "_id": 5,
+    "name": "Spaghetti Bolognese",
+    "info": "Classic Italian pasta dish with savory meat sauce.",
+    "img": "https://i.ibb.co/Lh5999f/Rectangle-20170.png",
+    "ingredients": [
+      "550 g chicken",
+      "120 ml soy sauce",
+      "200 g basil leaf",
+      "400 g mushroom"
+    ],
+    "time": "30 min",
+    "calories": "320 calories"
+  },
+  {
+    "_id": 6,
+    "name": "Spaghetti Bolognese",
+    "info": "Classic Italian pasta dish with savory meat sauce.",
+    "img": "https://i.ibb.co/Pwb73qL/Rectangle-20170.png",
+    "ingredients": [
+      "550 g chicken",
+      "120 ml soy sauce",
+      "200 g basil leaf",
+      "400 g mushroom"
+    ],
+    "time": "30 min",
+    "calories": "320 calories"
+  }
+]
